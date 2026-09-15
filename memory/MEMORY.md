@@ -22,3 +22,4 @@
 - [Conserve tokens this session](feedback_conserve_tokens_this_session.md) — 2026-09-15, after 3x session-limit hits; favor bulk-file+one-import over many API calls, lean verification, modest batch sizes
 - [Audi compatibility tables](project_laser_auto_parts_audi_compatibility_tables.md) — 11 listings fixed 2026-09-15; sample-50 audit (killed at 25/50) found 64% of Audi catalog likely under-states real fitment — full-audit decision NOT yet made; BMW fitment seed uploaded, unstarted
 - [Manufacturer naming rule](feedback_laser_parts_manufacturer_naming_rule.md) — mention manufacturer in name/description when known, never in OEM/SKU field
+- [TecDoc research + VIN model-decode alternatives](project_laser_auto_parts_tecdoc_research.md) — 2026-09-15, done with no live store access; TecDoc priced/integration-out, Vincario ($49/mo) recommended to close the BMW/VW "brand+year but no model" gap, free VDS-table path also still open
