@@ -1,0 +1,14 @@
+---
+name: feedback-memory-portability
+description: "Claude Code memory (C:\Users\user\.claude\projects\C--Users-user\memory\) is NOT confirmed portable to a Claude Desktop-app-hosted Claude Code session — don't claim otherwise"
+metadata:
+  type: feedback
+---
+
+Do not confidently assert that this memory system persists across all Claude Code entry points (CLI terminal vs. desktop app vs. web). The user tested this directly: opening a fresh Claude Code session via the Claude **desktop app** (not the local terminal) had **no access** to this local terminal session's memory files.
+
+**Why:** exact mechanism unconfirmed (likely a different config/profile/working-directory resolution used by the desktop app vs. the terminal-invoked `claude` CLI), but the user's own test is ground truth over any assumption. Previously I told the user memory "persists automatically" across fresh Claude Code sessions without this caveat — that was wrong/overconfident.
+
+**How to apply:** if a future session (including this one, resumed differently) is asked about switching interfaces (local terminal vs. desktop app vs. cloud), do not assert memory continuity as a given — flag it as uncertain/possibly broken based on this prior empirical finding, and recommend the user verify by checking whether MEMORY.md content is visible before relying on continuity for anything important. See [[project_laser_auto_parts]] for the project where this was discovered (2026-09-09) — the user was mid-way through a live background tagging fork at the time and decided to stay on the local terminal session rather than risk losing continuity.
+
+**Reinforced 2026-09-15: user said they will "likely continue this project in a totally different account"** — an even weaker continuity guarantee than the interface-switch case above (different account, not just different client). Memory files themselves live on the local filesystem (`C:\Users\user\.claude\projects\C--Users-user\memory\`) so they'd survive if the new account runs Claude Code on this same machine against this same project path — but whether a genuinely different account's session resolves to this same memory directory at all is unconfirmed, same uncertainty as the desktop-app case. **Practical mitigation used this session:** wrote the full current project state directly and comprehensively into the memory files themselves (see [[project_laser_auto_parts_catalog_quality]] and [[project_laser_auto_parts_audi_compatibility_tables]] for the 2026-09-15 wrap-up) rather than relying on conversation context or ephemeral temp-dir tracking files alone — if a new session/account CAN see this memory folder, it has everything it needs there; if it can't, nothing further could have been done to guarantee otherwise short of asking the user to manually export/paste content, which was not requested.
