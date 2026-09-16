@@ -1,0 +1,227 @@
+[
+  {
+    "sku": "83 22 2 289 720F",
+    "name": "زيت ناقل الحركة الأوتوماتيك ZF 8HP (febi Bilstein) لسيارات BMW/أودي/فولكس واجن (2010-2020)",
+    "note": "exhausted: AutoDoc + eBay both no match (ZF 8HP transmission oil, fluid product)"
+  },
+  {
+    "sku": "47 22 555 610W",
+    "name": "Air Suspension Valve (WABCO) for BMW 5/7 Series, X5 (F01/F02/F10/F11/F15, 2010-2015) (2010-2015)",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "11 61 7 646 092T",
+    "name": "تيربو لسيارات BMW",
+    "note": "skip-identity-unresolved: SKU digits do not match any real BMW OEM (Task1 audit flag), likely typo (61->65), needs owner verification before sourcing image"
+  },
+  {
+    "sku": "83 21 2 365 930",
+    "name": "زيت محرك بي إم دبليو توين باور تيربو 5W-30 (LL-04) – رقم القطعة 83 21 2 365 930",
+    "note": "skip-spec-risk: prior session found eBay photo showed 5W-40 bottle vs 5W-30 in title, spec mismatch risk, needs title/identity check first"
+  },
+  {
+    "sku": "31206882263",
+    "name": "طقم محمل هب العجلة الأمامي لسيارتي بي إم دبليو X5 E70 وX6 E71 (2007-2013) – رقم القطعة 31206882263",
+    "note": "exhausted (documented prior session)"
+  },
+  {
+    "sku": "31356779933",
+    "name": "جلبة ثبات الموازن الأمامي لسيارات BMW الفئة الخامسة F10/F11 / السادسة F06/F12/F13 (2009-2018) – رقم القطعة 31 35 6 779 933",
+    "note": "exhausted (documented prior session)"
+  },
+  {
+    "sku": "34356770995",
+    "name": "حساس اهتراء تيل الفرامل الخلفية لسيارات BMW الفئة الخامسة/السابعة G30/G70 (2023-2025) – رقم القطعة 34356770995",
+    "note": "held-back (documented prior session): only shipping-box photo found, rejected"
+  },
+  {
+    "sku": "63117214952",
+    "name": "غطاء عدسة المصباح LED الأيسر لسيارات بي إم دبليو الفئة الخامسة G30/G31 (2017-2020) – رقم القطعة 63117214952",
+    "note": "held-back (documented prior session): eBay photo showed full headlight assembly not lens-cover, part-type mismatch risk"
+  },
+  {
+    "sku": "34356792289S",
+    "name": "حساس فحمات فرامل أمامي لسيارات BMW الفئة الأولى F20، الفئة الثالثة F30/F31/F32/F33/F36 (2011-2018) – رقم القطعة 34356792289",
+    "note": "mismatch-excluded (documented this session): AutoDoc match is \"brake pad set\" not \"wear sensor\""
+  },
+  {
+    "sku": "34356791962S",
+    "name": "حساس فحمات فرامل خلفي لسيارات BMW الفئة الخامسة F10/F11، الفئة السادسة F06/F12/F13 (2010-2019) – رقم القطعة 34356791962",
+    "note": "mismatch-excluded (documented this session): same sensor-vs-set mismatch"
+  },
+  {
+    "sku": "34356791962G",
+    "name": "حساس تآكل فحمات الفرامل الخلفي لسيارات BMW الفئة الخامسة F10/F11، السادسة F06/F12/F13 (2010-2017) – رقم القطعة 34356791962",
+    "note": "mismatch-excluded (documented this session): same sensor-vs-set mismatch"
+  },
+  {
+    "sku": "64536972533",
+    "name": "رادياتر مكيف لسيارات BMW X5 E70/F15 / X6 E71/F16 (2007-2016) – رقم القطعة 64536972533",
+    "note": "exhausted: AutoDoc + eBay both no match (AC condenser)"
+  },
+  {
+    "sku": "83 21 2 465 843",
+    "name": "زيت محرك أصلي 10W-40 5 لتر لسيارات BMW (2008-2016) – رقم القطعة 83212465843",
+    "note": "exhausted: AutoDoc + eBay both no match (engine oil, fluid product)"
+  },
+  {
+    "sku": "11287459589",
+    "name": "شداد سير لسيارات BMW X5 E53 / الفئة السابعة E65/E66 (2002-2008) – رقم القطعة 11287459589",
+    "note": "exhausted: AutoDoc + eBay both no match (belt tensioner)"
+  },
+  {
+    "sku": "83 19 2 408 560",
+    "name": "منظف حاقن الوقود (إضافة) 100 مل لسيارات BMW – رقم القطعة 83192408560",
+    "note": "exhausted: AutoDoc + eBay both no match (fuel injector cleaner additive, fluid product)"
+  },
+  {
+    "sku": "4M8821172E",
+    "name": "Front Fender Liner for Audi Q8 (2018-2026) – OEM 4M8821172E",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "4M8821171E",
+    "name": "Front Fender Liner for Audi Q8 (2018-2026) – OEM 4M8821171E",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "4K8 821 171P",
+    "name": "Front Wheel Fender Liner for Audi A7 (2019-2025) – OEM 4K8 821 171P",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "07K 103 483B",
+    "name": "جوان غطاء الكلبتة لسيارة أودي A6/A8/S4/RS4 محرك 4.2 لتر V8",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "4G0 122 101F",
+    "name": "خرطوم مويه رديتر لسيارة أودي A6",
+    "note": "exhausted: AutoDoc no match, not yet tried eBay"
+  },
+  {
+    "sku": "4H0 807 460 2ZZ",
+    "name": "نيكل صدام خلفي يمين لسيارة أودي A8 (2010-2017)",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "4B0 698 151J",
+    "name": "فحمات فرامل أمامي - أودي (1997-2004)",
+    "note": "skip-safety: brake pad vs disc identity conflict, unresolved, awaiting owner physical-part check - do not image until resolved"
+  },
+  {
+    "sku": "4L0 807 041 E",
+    "name": "قطعة غيار أودي يسار Q7",
+    "note": "exhausted + identity-unclear: product name is generic placeholder \"Spare Part Left\", real part unknown, already flagged in project memory as unidentifiable"
+  },
+  {
+    "sku": "4L0 907 675C",
+    "name": "غطاء كشاف ضباب يسار S-Line - أودي Q7 (2010-2015)",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "4L0 907 676C",
+    "name": "غطاء كشاف ضباب يمين S-Line - أودي Q7 (2010-2015)",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "80A 853 887F",
+    "name": "بطانة رفرف أمامي لسيارة أودي Q5 (2018-2020) – رقم القطعة 80A 853 887F",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "4M0 407 505A",
+    "name": "ذراع مقص أمامي علوي لسيارة أودي Q7 (2017-2024) – رقم القطعة 4M0 407 505A",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "9A1 107 024 00",
+    "name": "Oil Filter Housing Seal for Porsche 911 Turbo (997/991, 2010-2015) (2010-2015)",
+    "note": "mismatch-excluded: both AutoDoc and eBay only show generic \"oil filter\" or \"oil filter kit\" images, product is specifically the housing SEAL not the filter itself - different part"
+  },
+  {
+    "sku": "970 333 792 06",
+    "name": "Mounting - Porsche باناميرا (2010-2015)",
+    "note": "exhausted (documented prior session): zero eBay listings found"
+  },
+  {
+    "sku": "970 341 124 301",
+    "name": "Bushing Control Arm - Porsche باناميرا (2010-2017)",
+    "note": "exhausted (documented prior session): zero eBay listings found"
+  },
+  {
+    "sku": "970 505 635 02",
+    "name": "Bumper Bracket Left - Porsche PANAMERA (2010-2016)",
+    "note": "exhausted (documented prior session): eBay listings all seller-logo-branded, no clean photo"
+  },
+  {
+    "sku": "C 955 505 681 12",
+    "name": "Gts Front Bumper Lower Grille - Porsche كايين (2007-2010)",
+    "note": "exhausted (documented prior session): watermarked/background issues on all eBay candidates"
+  },
+  {
+    "sku": "C 955 505 682 12",
+    "name": "Gts Front Bumper Lower Grille - Porsche كايين (2007-2010)",
+    "note": "exhausted (documented prior session): watermarked/background issues on all eBay candidates"
+  },
+  {
+    "sku": "C 958 504 961 01",
+    "name": "Front Wheel Fender Liner - Porsche CAYENNE (2011-2018)",
+    "note": "exhausted (documented prior session): watermarked/near-miss OEM on all eBay candidates"
+  },
+  {
+    "sku": "C 958 504 962 01",
+    "name": "Front Wheel Fender Liner - Porsche CAYENNE (2011-2018)",
+    "note": "exhausted (documented prior session): watermarked/near-miss OEM on all eBay candidates"
+  },
+  {
+    "sku": "C 958 505 156 00",
+    "name": "Front Bumper Tow Cover - Porsche CAYENNE (2015-2018)",
+    "note": "exhausted (documented prior session): all eBay listings watermarked by resellers"
+  },
+  {
+    "sku": "948 105 935 01",
+    "name": "جوان غطاء الصمامات (اسطوانات 1-4) لسيارة بورش كايين/باناميرا (2008-2018)",
+    "note": "exhausted: no source found"
+  },
+  {
+    "sku": "3QF 413 031T",
+    "name": "مساعد أمامي لسيارة أودي Q7/بورش كايين/فولكس واجن طوارق (2016-2018)",
+    "note": "exhausted: AutoDoc + eBay both no match (cross-tagged Audi/Porsche)"
+  },
+  {
+    "sku": "7P6 413 032AL",
+    "name": "مساعد أمامي (الجهة المقابلة) لسيارة أودي Q7/بورش كايين/فولكس واجن طوارق (2010-2015)",
+    "note": "exhausted: AutoDoc + eBay both no match (cross-tagged Audi/Porsche)"
+  },
+  {
+    "sku": "7P6 513 029AN",
+    "name": "مساعد خلفي لسيارة أودي Q7/بورش كايين/فولكس واجن طوارق (2010-2015)",
+    "note": "exhausted: AutoDoc + eBay both no match (cross-tagged Audi/Porsche)"
+  },
+  {
+    "sku": "955 343 069 00",
+    "name": "جوزة موازن أمامي لسيارة بورش كايين/أودي Q7/فولكس واجن طوارق (2010-2015) - febi",
+    "note": "exhausted: AutoDoc + eBay both no match (cross-tagged Audi/Porsche)"
+  },
+  {
+    "sku": "7L0 505 465A",
+    "name": "جوزة موازن خلفي لسيارة أودي Q7/بورش كايين/فولكس واجن طوارق (2006-2015)",
+    "note": "mismatch-excluded: product titled \"stabilizer link\" but AutoDoc match is a control-arm-bush/repair-kit, different real part"
+  },
+  {
+    "sku": "7L0 505 466A",
+    "name": "جوزة موازن خلفي (الجهة المقابلة) لسيارة أودي Q7/بورش كايين/فولكس واجن طوارق (2006-2015)",
+    "note": "mismatch-excluded: same as sibling 465A"
+  },
+  {
+    "sku": "970 347 133 00",
+    "name": "دركسون داخلي لسيارة بورش باناميرا (2010-2016)",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  },
+  {
+    "sku": "958 504 971 01",
+    "name": "بطانة رفرف لسيارة بورش كايين (2011-2017)",
+    "note": "exhausted: AutoDoc + eBay both no match"
+  }
+]
