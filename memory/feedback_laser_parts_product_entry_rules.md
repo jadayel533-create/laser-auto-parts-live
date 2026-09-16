@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: bd9e7098-a236-4415-97ef-572768b4d620
-  modified: 2026-09-15T00:42:00.087Z
+  modified: 2026-09-15T07:55:53.997Z
 ---
 
 Owner set the original 5 rules 2026-09-13 (BMW gap-fill cleanup); owner restated/expanded into an 11-point checklist 2026-09-14 (catalog/SEO cleanup task). Treat the 2026-09-14 list as the current standing checklist — apply on EVERY future product touch on this store, not just the batch that triggered it.
@@ -17,7 +17,7 @@ Owner set the original 5 rules 2026-09-13 (BMW gap-fill cleanup); owner restated
 4. Manufacturer or factory-direct origin noted (not left blank/unknown).
 5. Model, chassis, and years included.
 6. Left/Right/Front/Rear position included when the part is side/position-specific.
-7. Real (OE-confirmed) image before publishing — don't publish with a placeholder or no image.
+7. Real (OE-confirmed) image before publishing — don't publish with a placeholder or no image. **Image must be watermark/logo/seller-tag-free and must clearly show the actual product** — AutoDoc, eBay, and Google (any source) are all fine to pull from; the only hard requirement is that the OEM number is confirmed to match before trusting the image. Only fall back to a watermarked-but-correct photo if every confirmed-match candidate found has a watermark — never skip an item just because the cleanest option has a mark on it, and never pick an unconfirmed/wrong-OEM photo for the sake of being watermark-free (correctness still outranks cleanliness).
 8. Stock quantity and weight both set (not left at a placeholder like qty 0/1 or blank weight).
 9. Category + model assignment (tag into every category tree the part genuinely fits, per [[feedback_multibrand_categorization]]).
 10. Useful description written for the specific part, not mechanical/boilerplate template text (e.g. NOT generic "high-quality X, designed for reliable performance..." filler — write real, specific copy).
